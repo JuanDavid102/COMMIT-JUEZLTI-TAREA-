@@ -1,0 +1,1 @@
+Para añadir plugins hay que ir a docker-compose
